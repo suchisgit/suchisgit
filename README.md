@@ -8,13 +8,9 @@
 ### 👨‍🎓 Resume
 <p class="has-line-data" data-line-start="2" data-line-end="3"><a href="https://drive.google.com/file/d/1NWXBRkIYAJERFzt_tMGL20Gig962qXA8/view?usp=drive_link"><img src="https://raw.githubusercontent.com/1919kiran/1919kiran/c587651a0b7a03c83ad450714cb9d2d5a47222f0/RESUME.svg" alt="N|Solid" width="96" height="28"></a></p>
 
-<br>
-
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchandranath-bajjuri-b17934147/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suchandranath.bajjuri@sjsu.edu)
-
-<br>
 
 ### 🧑‍💻Coding Profiles
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/suchi_CR7/)
